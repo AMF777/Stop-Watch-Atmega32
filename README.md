@@ -1,7 +1,7 @@
 # C_Language_Mini_Project2
  Developing a system that controls the stop-watch time and displays it on 7-segments.
 - Drivers: GPIO, Timer, External Interrupts, and 7-Segment.
-- Microcontroller: ATmega16.
+- Microcontroller: ATmega32.
  ----------------------------
  
  More Details:
